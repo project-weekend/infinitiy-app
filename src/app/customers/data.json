@@ -1,0 +1,183 @@
+[
+  {
+    "id": "CUST-001",
+    "name": "Ahmad Fadli",
+    "email": "ahmad.fadli@email.com",
+    "address": "Jl. Sudirman No. 123, Jakarta Pusat, DKI Jakarta",
+    "notes": "VIP customer, prefers express shipping",
+    "totalSpent": 127500000.0,
+    "lastTransaction": "2024-11-30"
+  },
+  {
+    "id": "CUST-002",
+    "name": "Siti Nurhaliza",
+    "email": "siti.nur@email.com",
+    "address": "Jl. Gatot Subroto No. 45, Bandung, Jawa Barat",
+    "notes": "Frequent buyer of electronics",
+    "totalSpent": 89200000.0,
+    "lastTransaction": "2024-11-29"
+  },
+  {
+    "id": "CUST-003",
+    "name": "Budi Santoso",
+    "email": "budi.santoso@email.com",
+    "address": "Jl. Ahmad Yani No. 78, Surabaya, Jawa Timur",
+    "notes": "Corporate account, bulk orders",
+    "totalSpent": 215600000.0,
+    "lastTransaction": "2024-12-01"
+  },
+  {
+    "id": "CUST-004",
+    "name": "Dewi Lestari",
+    "email": "dewi.lestari@email.com",
+    "address": "Jl. Diponegoro No. 234, Yogyakarta, DIY",
+    "notes": "Prefers payment via transfer",
+    "totalSpent": 45800000.0,
+    "lastTransaction": "2024-11-28"
+  },
+  {
+    "id": "CUST-005",
+    "name": "Rudi Hermawan",
+    "email": "rudi.hermawan@email.com",
+    "address": "Jl. Imam Bonjol No. 56, Medan, Sumatera Utara",
+    "notes": "Gaming products enthusiast",
+    "totalSpent": 67300000.0,
+    "lastTransaction": "2024-11-27"
+  },
+  {
+    "id": "CUST-006",
+    "name": "Ani Wijaya",
+    "email": "ani.wijaya@email.com",
+    "address": "Jl. Thamrin No. 89, Jakarta Selatan, DKI Jakarta",
+    "notes": "Fashion and accessories regular",
+    "totalSpent": 23400000.0,
+    "lastTransaction": "2024-11-26"
+  },
+  {
+    "id": "CUST-007",
+    "name": "Joko Widodo",
+    "email": "joko.widodo@email.com",
+    "address": "Jl. Veteran No. 12, Semarang, Jawa Tengah",
+    "notes": "Prefers weekend delivery",
+    "totalSpent": 156700000.0,
+    "lastTransaction": "2024-11-30"
+  },
+  {
+    "id": "CUST-008",
+    "name": "Maya Puspita",
+    "email": "maya.puspita@email.com",
+    "address": "Jl. Hayam Wuruk No. 67, Denpasar, Bali",
+    "notes": "Camera and photography equipment buyer",
+    "totalSpent": 98500000.0,
+    "lastTransaction": "2024-11-29"
+  },
+  {
+    "id": "CUST-009",
+    "name": "Arif Rahman",
+    "email": "arif.rahman@email.com",
+    "address": "Jl. Pahlawan No. 34, Malang, Jawa Timur",
+    "notes": "Student discount applicable",
+    "totalSpent": 12800000.0,
+    "lastTransaction": "2024-11-20"
+  },
+  {
+    "id": "CUST-010",
+    "name": "Linda Kusuma",
+    "email": "linda.kusuma@email.com",
+    "address": "Jl. Asia Afrika No. 90, Bandung, Jawa Barat",
+    "notes": "Home appliances preferred customer",
+    "totalSpent": 178900000.0,
+    "lastTransaction": "2024-12-01"
+  },
+  {
+    "id": "CUST-011",
+    "name": "Hendra Gunawan",
+    "email": "hendra.gunawan@email.com",
+    "address": "Jl. Karet No. 23, Jakarta Barat, DKI Jakarta",
+    "notes": "Tech early adopter",
+    "totalSpent": 134500000.0,
+    "lastTransaction": "2024-11-28"
+  },
+  {
+    "id": "CUST-012",
+    "name": "Sri Mulyani",
+    "email": "sri.mulyani@email.com",
+    "address": "Jl. Majapahit No. 45, Solo, Jawa Tengah",
+    "notes": "Loyal customer since 2020",
+    "totalSpent": 245600000.0,
+    "lastTransaction": "2024-11-30"
+  },
+  {
+    "id": "CUST-013",
+    "name": "Agus Salim",
+    "email": "agus.salim@email.com",
+    "address": "Jl. Pemuda No. 78, Makassar, Sulawesi Selatan",
+    "notes": "Audio equipment collector",
+    "totalSpent": 87600000.0,
+    "lastTransaction": "2024-11-27"
+  },
+  {
+    "id": "CUST-014",
+    "name": "Rina Susanti",
+    "email": "rina.susanti@email.com",
+    "address": "Jl. Gajah Mada No. 56, Palembang, Sumatera Selatan",
+    "notes": "Prefers installment payment",
+    "totalSpent": 56700000.0,
+    "lastTransaction": "2024-11-25"
+  },
+  {
+    "id": "CUST-015",
+    "name": "Bambang Supriyanto",
+    "email": "bambang.supriyanto@email.com",
+    "address": "Jl. Raya Bogor No. 123, Bogor, Jawa Barat",
+    "notes": "Corporate IT manager",
+    "totalSpent": 189400000.0,
+    "lastTransaction": "2024-11-29"
+  },
+  {
+    "id": "CUST-016",
+    "name": "Dian Pertiwi",
+    "email": "dian.pertiwi@email.com",
+    "address": "Jl. Panglima Sudirman No. 34, Pontianak, Kalimantan Barat",
+    "notes": "Wearable tech enthusiast",
+    "totalSpent": 34500000.0,
+    "lastTransaction": "2024-11-26"
+  },
+  {
+    "id": "CUST-017",
+    "name": "Fajar Nugroho",
+    "email": "fajar.nugroho@email.com",
+    "address": "Jl. Dieng No. 89, Malang, Jawa Timur",
+    "notes": "Gaming console collector",
+    "totalSpent": 76800000.0,
+    "lastTransaction": "2024-11-30"
+  },
+  {
+    "id": "CUST-018",
+    "name": "Eka Putri",
+    "email": "eka.putri@email.com",
+    "address": "Jl. Ahmad Dahlan No. 67, Padang, Sumatera Barat",
+    "notes": "Seasonal buyer",
+    "totalSpent": 23100000.0,
+    "lastTransaction": "2024-11-15"
+  },
+  {
+    "id": "CUST-019",
+    "name": "Tono Sukirman",
+    "email": "tono.sukirman@email.com",
+    "address": "Jl. Mawar No. 45, Bekasi, Jawa Barat",
+    "notes": "Computer parts regular",
+    "totalSpent": 112300000.0,
+    "lastTransaction": "2024-12-01"
+  },
+  {
+    "id": "CUST-020",
+    "name": "Yanti Kusuma",
+    "email": "yanti.kusuma@email.com",
+    "address": "Jl. Cendrawasih No. 12, Balikpapan, Kalimantan Timur",
+    "notes": "Premium customer, requires invoice",
+    "totalSpent": 198700000.0,
+    "lastTransaction": "2024-11-29"
+  }
+]
+

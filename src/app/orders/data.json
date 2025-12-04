@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ORD-001",
+    "orderDate": "2024-12-01",
+    "customerName": "John Smith",
+    "channel": "ONLINE",
+    "totalAmount": 18750000.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CLOSED",
+    "total_item": 5,
+    "deliveryStatus": "DELIVERED"
+  },
+  {
+    "id": "ORD-002",
+    "orderDate": "2024-12-01",
+    "customerName": "Sarah Johnson",
+    "channel": "MANUAL",
+    "totalAmount": 12757500.0,
+    "paymentStatus": "PARTIAL_PAID",
+    "orderStatus": "OPEN",
+    "total_item": 3,
+    "deliveryStatus": "PROCESSING"
+  },
+  {
+    "id": "ORD-003",
+    "orderDate": "2024-12-01",
+    "customerName": "Michael Chen",
+    "channel": "ONLINE",
+    "totalAmount": 31500000.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CLOSED",
+    "total_item": 7,
+    "deliveryStatus": "DELIVERED"
+  },
+  {
+    "id": "ORD-004",
+    "orderDate": "2024-11-30",
+    "customerName": "Emily Davis",
+    "channel": "ONLINE",
+    "totalAmount": 10128750.0,
+    "paymentStatus": "PENDING",
+    "orderStatus": "OPEN",
+    "total_item": 2,
+    "deliveryStatus": "PROCESSING"
+  },
+  {
+    "id": "ORD-005",
+    "orderDate": "2024-11-30",
+    "customerName": "David Wilson",
+    "channel": "MANUAL",
+    "totalAmount": 6750000.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CANCELED",
+    "total_item": 1,
+    "deliveryStatus": "PROCESSING"
+  },
+  {
+    "id": "ORD-006",
+    "orderDate": "2024-11-29",
+    "customerName": "Lisa Anderson",
+    "channel": "ONLINE",
+    "totalAmount": 48000000.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CLOSED",
+    "total_item": 10,
+    "deliveryStatus": "DELIVERED"
+  },
+  {
+    "id": "ORD-007",
+    "orderDate": "2024-11-29",
+    "customerName": "James Brown",
+    "channel": "MANUAL",
+    "totalAmount": 21761250.0,
+    "paymentStatus": "PARTIAL_PAID",
+    "orderStatus": "OPEN",
+    "total_item": 4,
+    "deliveryStatus": "PROCESSING"
+  },
+  {
+    "id": "ORD-008",
+    "orderDate": "2024-11-28",
+    "customerName": "Maria Garcia",
+    "channel": "ONLINE",
+    "totalAmount": 13350000.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CLOSED",
+    "total_item": 3,
+    "deliveryStatus": "DELIVERED"
+  },
+  {
+    "id": "ORD-009",
+    "orderDate": "2024-11-28",
+    "customerName": "Robert Taylor",
+    "channel": "ONLINE",
+    "totalAmount": 18000000.0,
+    "paymentStatus": "PENDING",
+    "orderStatus": "OPEN",
+    "total_item": 6,
+    "deliveryStatus": "PROCESSING"
+  },
+  {
+    "id": "ORD-010",
+    "orderDate": "2024-11-27",
+    "customerName": "Jennifer Martinez",
+    "channel": "MANUAL",
+    "totalAmount": 8250000.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CANCELED",
+    "total_item": 2,
+    "deliveryStatus": "PROCESSING"
+  },
+  {
+    "id": "ORD-011",
+    "orderDate": "2024-11-26",
+    "customerName": "William Thompson",
+    "channel": "ONLINE",
+    "totalAmount": 41257500.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CLOSED",
+    "total_item": 8,
+    "deliveryStatus": "DELIVERED"
+  },
+  {
+    "id": "ORD-012",
+    "orderDate": "2024-11-26",
+    "customerName": "Patricia White",
+    "channel": "MANUAL",
+    "totalAmount": 14700000.0,
+    "paymentStatus": "PARTIAL_PAID",
+    "orderStatus": "OPEN",
+    "total_item": 4,
+    "deliveryStatus": "PROCESSING"
+  },
+  {
+    "id": "ORD-013",
+    "orderDate": "2024-11-25",
+    "customerName": "Christopher Lee",
+    "channel": "ONLINE",
+    "totalAmount": 25200000.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CLOSED",
+    "total_item": 5,
+    "deliveryStatus": "DELIVERED"
+  },
+  {
+    "id": "ORD-014",
+    "orderDate": "2024-11-25",
+    "customerName": "Amanda Harris",
+    "channel": "ONLINE",
+    "totalAmount": 6300000.0,
+    "paymentStatus": "PENDING",
+    "orderStatus": "OPEN",
+    "total_item": 1,
+    "deliveryStatus": "PROCESSING"
+  },
+  {
+    "id": "ORD-015",
+    "orderDate": "2024-11-24",
+    "customerName": "Daniel Clark",
+    "channel": "MANUAL",
+    "totalAmount": 5250000.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CANCELED",
+    "total_item": 1,
+    "deliveryStatus": "PROCESSING"
+  },
+  {
+    "id": "ORD-016",
+    "orderDate": "2024-11-23",
+    "customerName": "Jessica Lewis",
+    "channel": "ONLINE",
+    "totalAmount": 67500000.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CLOSED",
+    "total_item": 12,
+    "deliveryStatus": "DELIVERED"
+  },
+  {
+    "id": "ORD-017",
+    "orderDate": "2024-11-22",
+    "customerName": "Matthew Walker",
+    "channel": "MANUAL",
+    "totalAmount": 17250000.0,
+    "paymentStatus": "PARTIAL_PAID",
+    "orderStatus": "OPEN",
+    "total_item": 3,
+    "deliveryStatus": "PROCESSING"
+  },
+  {
+    "id": "ORD-018",
+    "orderDate": "2024-11-21",
+    "customerName": "Ashley Hall",
+    "channel": "ONLINE",
+    "totalAmount": 34500000.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CLOSED",
+    "total_item": 7,
+    "deliveryStatus": "DELIVERED"
+  },
+  {
+    "id": "ORD-019",
+    "orderDate": "2024-11-20",
+    "customerName": "Andrew Young",
+    "channel": "ONLINE",
+    "totalAmount": 11700000.0,
+    "paymentStatus": "PENDING",
+    "orderStatus": "OPEN",
+    "total_item": 2,
+    "deliveryStatus": "PROCESSING"
+  },
+  {
+    "id": "ORD-020",
+    "orderDate": "2024-11-19",
+    "customerName": "Stephanie King",
+    "channel": "MANUAL",
+    "totalAmount": 9600000.0,
+    "paymentStatus": "PAID",
+    "orderStatus": "CANCELED",
+    "total_item": 2,
+    "deliveryStatus": "PROCESSING"
+  }
+]
