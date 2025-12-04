@@ -26,7 +26,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     const initializeAuth = async () => {
       try {
         const currentUser = authService.getCurrentUser();
-        
+
         if (currentUser && authService.isAuthenticated()) {
           setUser(currentUser);
           authService.setCurrentUser(currentUser);

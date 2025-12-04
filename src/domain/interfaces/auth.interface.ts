@@ -3,7 +3,11 @@
  * Defines the contract for authentication operations
  */
 
-import { LoginCredentials, AuthResponse, UserEntity } from "../entities/user.entity";
+import {
+  LoginCredentials,
+  AuthResponse,
+  UserEntity,
+} from "../entities/user.entity";
 
 export interface IAuthRepository {
   login(credentials: LoginCredentials): Promise<AuthResponse>;
@@ -17,5 +21,3 @@ export interface IAuthService {
   getCurrentUser(): UserEntity | null;
   isAuthenticated(): boolean;
 }
-
-

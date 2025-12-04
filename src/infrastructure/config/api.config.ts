@@ -9,6 +9,7 @@ export const API_CONFIG = {
   SECRET_KEY: process.env.NEXT_PUBLIC_API_SECRET_KEY || "is-this-secret-key?",
   ENDPOINTS: {
     LOGIN: "/user/login",
+    USER_ME: "/user/me",
   },
   TIMEOUT: 10000, // 10 seconds
 };
